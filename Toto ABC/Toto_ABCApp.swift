@@ -11,7 +11,7 @@ import SwiftUI
 struct Toto_ABCApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TraceLetterView()
         }
     }
 }
